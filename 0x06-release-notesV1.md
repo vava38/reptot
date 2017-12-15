@@ -27,4 +27,4 @@ Nous avons interrogé la communauté pour avoir leur retour prospectif sur deux 
 * **A8–Falsification de requête intersites (CSRF)**, a été supprimé car beaucoup d'environnements logiciel intègrent des [défenses CSRF](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)), et que cela n'a été retrouvé que dans 5% des applications.
 * **A10–Redirection et Renvois non validés**, a été supprimé, bien que cela ait été retrouvé dans 8% des applications, car cela est globalement détrôné par XXE.
 
-![0x06-release-notes-1](images/0x06-release-notes-1fr.png)
+![0x06-release-notes-1](images/0x06-release-notes-3fr.png)
